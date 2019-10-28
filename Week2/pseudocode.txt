@@ -1,0 +1,32 @@
+//Week 2 - Day 1
+
+//Algoritma - No 1
+SET m with a value 600
+SET a with a value 2
+CALCULATE (m * a) store to f
+DISPLAY f
+
+
+//Algoritma - No 2
+if((tahun mod 4 = 0 & tahun mod 100 != 0) || (tahun mod 4 =0 & tahun mod 100 = 0 & tahun mod 400 = 0)){
+Display "tahun kabisat"
+}
+
+//Algoritma - No 3
+for(SET i with a value 0; SET i less than 20; SET i++){
+    if(i = 20){
+        DISPLAY "mesin cuci hidup"
+    }
+}
+
+//Algoritma - No 4
+for(SET i with a value 0; SET i less than 40; SET i++){
+    SET kuku as a String
+    if(SET kuku with a value kuku panjang){
+        Display "Hukum Siswa/Siswi"
+    }
+    else{
+        Display "Puji Siswa/Siswi"
+    }
+}
+
