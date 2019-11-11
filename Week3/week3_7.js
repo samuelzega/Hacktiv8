@@ -3,7 +3,7 @@ function hitungJumlahKata(kalimat) {
     return wordCount.length
   }
   
-  console.log(hitungJumlahKata('I have a dream')); // 4
+  console.log(hitungJumlahKata('I have a   dream')); // 4
   console.log(hitungJumlahKata('Never eat shredded wheat or cake')); // 6
   console.log(hitungJumlahKata('A song to sing')); // 4
   console.log(hitungJumlahKata('I')); // 1
